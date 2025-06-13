@@ -49,7 +49,7 @@ const SidebarNav = () => {
           {/* Logo or initials */}
           <div className="border-2 rounded-full p-1 dark:border-gray-400 border-gray-800">
             <img
-              src="public\lovable-uploads\474768c2-50e4-4a0c-a9b2-f56af5e66d0e.png"
+              src="https://github.com/Prash2185/Portfolio/blob/main/public/lovable-uploads/474768c2-50e4-4a0c-a9b2-f56af5e66d0e.png?raw=true"
               alt="logo"
               className="rounded-full w-10 h-10"
             />
