@@ -36,7 +36,7 @@ const socials = [
   {
     label: "Mail",
     icon: <Mail size={21} />,
-    url: "mailto:mail@example.com",
+    url: "prasannadhotarkar@gmail.com",
   },
 ];
 
