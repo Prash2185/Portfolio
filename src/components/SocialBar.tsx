@@ -16,12 +16,12 @@ const socials = [
   {
     label: "GitHub",
     icon: <Github size={21} />,
-    url: "https://github.com/rahul-khawse",
+    url: "https://github.com/Prash2185",
   },
   {
     label: "LinkedIn",
     icon: <Linkedin size={21} />,
-    url: "https://linkedin.com/in/rahulkhawse",
+    url: "www.linkedin.com/in/prasanna-dhotarkar-57415b2b0",
   },
   {
     label: "Instagram",
